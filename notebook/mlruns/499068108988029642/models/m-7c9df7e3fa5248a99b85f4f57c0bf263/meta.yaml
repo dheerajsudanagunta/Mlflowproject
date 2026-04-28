@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ds/Mlflowstarter/notebook/mlruns/499068108988029642/models/m-7c9df7e3fa5248a99b85f4f57c0bf263/artifacts
+creation_timestamp: 1777348884907
+experiment_id: '499068108988029642'
+last_updated_timestamp: 1777348890987
+model_id: m-7c9df7e3fa5248a99b85f4f57c0bf263
+model_type: null
+name: iris_model
+source_run_id: 4725b6de01ad41409298b1d84855583e
+status: 2
+status_message: null

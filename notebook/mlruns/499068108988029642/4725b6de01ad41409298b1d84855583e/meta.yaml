@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ds/Mlflowstarter/notebook/mlruns/499068108988029642/4725b6de01ad41409298b1d84855583e/artifacts
+end_time: 1777348891070
+entry_point_name: ''
+experiment_id: '499068108988029642'
+lifecycle_stage: active
+run_id: 4725b6de01ad41409298b1d84855583e
+run_name: hilarious-ram-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777348884836
+status: 3
+tags: []
+user_id: dheer

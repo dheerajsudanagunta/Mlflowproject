@@ -1,0 +1,8 @@
+artifact_location: file:///D:/ds/Mlflowstarter/notebook/mlruns/499068108988029642
+creation_time: 1777348784809
+experiment_id: '499068108988029642'
+last_update_time: 1777348784809
+lifecycle_stage: active
+name: mlflow_experiment
+trace_location: null
+workspace: default

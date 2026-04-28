@@ -1,0 +1,16 @@
+creation_timestamp: 1777348891017
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1777348891017
+model_id: m-7c9df7e3fa5248a99b85f4f57c0bf263
+name: tracking-quick-start
+run_id: 4725b6de01ad41409298b1d84855583e
+run_link: null
+source: models:/m-7c9df7e3fa5248a99b85f4f57c0bf263
+status: READY
+status_message: null
+storage_location: file:///D:/ds/Mlflowstarter/notebook/mlruns/499068108988029642/models/m-7c9df7e3fa5248a99b85f4f57c0bf263/artifacts
+user_id: null
+version: 1
+workspace: default

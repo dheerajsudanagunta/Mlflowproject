@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ds/Mlflowstarter/notebook/mlruns/499068108988029642/aa9397524619478ca089ae08b33cb035/artifacts
+end_time: 1777348794867
+entry_point_name: ''
+experiment_id: '499068108988029642'
+lifecycle_stage: active
+run_id: aa9397524619478ca089ae08b33cb035
+run_name: fortunate-hawk-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777348794717
+status: 4
+tags: []
+user_id: dheer
